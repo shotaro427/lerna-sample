@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.1](https://github.com/shotaro427/lerna-sample/compare/client/v0.1.0...client/v0.1.1) (2023-06-16)
+
+
+### Features
+
+* add ! to backend ([f8c31ee](https://github.com/shotaro427/lerna-sample/commit/f8c31ee09553849ae334f1ec3825b0569846e280))
+
+
+
+
+
 # [0.1.0](https://github.com/shotaro427/lerna-sample/compare/client/v0.0.6-rc.0...client/v0.1.0) (2023-06-16)
 
 
