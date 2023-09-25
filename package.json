@@ -9,6 +9,6 @@
     "lerna": "^7.0.2"
   },
   "scripts": {
-    "up-version:client": "lerna version --no-private --allow-branch master --tag-version-prefix client/v --conventional-commits"
+    "up-version:client": "lerna version --no-private --allow-branch main --tag-version-prefix client/v --conventional-commits"
   }
 }
